@@ -6,6 +6,15 @@ For private audits or security consulting, please reach out to me on:
 - Twitter: [@SPY8OY](https://x.com/SPY8OY)
 - Telegram: [@shreyas_koli](https://t.me/shreyas_koli)
 
+---
+
+> [!TIP]
+> The most interesting reports are marked 💎,
+> mildly interesting as 👌 and
+> less interesting as 📰. <br>
+
+## Private Audits
+
 |  | Report | Description | Ecosystem | Provider |
 | --- | --- | --- | --- | --- |
 | **2025** |  |  |  |  |
