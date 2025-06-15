@@ -45,7 +45,7 @@ For private audits or security consulting, please reach out to me on:
 | 💎 | [AllinGames: Hash Dice](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Hash_Dice_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
 | 👌 | [AllinGames: Limbo](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Limbo_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
 | 💎 | [AllinGames: Lottery](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
-| 📰 | [AllinGames: Roulette](https://github.com/namx05/audits/blob/main/audit-reports/pdf/AllInGames_Roulette_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
+| 📰 | [AllinGames: Roulette](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
 | 📰 | [AllinGames: Seven Up Seven Down](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
 | 📰 | [AllinGames: Slot](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Slots_Final_Audit_Report.pdf) | GameFi | 🦀 CosmWasm | Credshields |
 | 👌 | [Arcana: Browser Extenstion](https://github.com/Credshields/audit-reports/blob/master/Arcana_Wallet_Final_Audit_Report.pdf) | Wallet | Bowser Extenstion | Credshields |
