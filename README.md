@@ -34,7 +34,7 @@ For private audits or security consulting, please reach out to me on:
 | 💎 | Metaco Intelligence Corporation | Restaking | ♦ EVM | 13 issues (1C,2H,3M,7L) | [📄](http://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf) |
 | 💎 | Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | 22 issues (4C,3H,2M,13L) | Soon |
 | 💎 | Power Couple Coin: StakingPanelty | Staking | 🦀 Solana | 11 issues (4C,0H,1M,6L) | Soon |
-| �� | Taco Studios: Okidori | NFT Tokonomics, Marketplace, Royalty | ♦ EVM | 12 issues (2C,1H,4M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Okidori_Final_Audit_Report.pdf) |
+| 💎 | Taco Studios: Okidori | NFT Tokonomics, Marketplace, Royalty | ♦ EVM | 12 issues (2C,1H,4M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Okidori_Final_Audit_Report.pdf) |
 | 💎 | Plutope | Token Launcher | ♦ EVM | 12 issues (2C,0H,5M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf) |
 | 💎 | Power Couple Coin: Staking | Staking | 🦀 Solana | 10 issues (4C,0H,2M,4L) | Soon |
 | 💎 | AllinGames: Coin Flip | GameFi | 🦀 CosmWasm | 7 issues (1C,1H,0M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf) |
