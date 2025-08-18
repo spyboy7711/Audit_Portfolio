@@ -1,5 +1,5 @@
 # Audit_Portfolio
-I'm security researcher specialized in **Solidity** and **Rust** (Solana, CosmWasm) audits. Conducted 100+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far.
+I'm security researcher specialized in **Solidity** and **Rust** (Solana, CosmWasm) audits. Conducted 70+ private audits in which **15+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far.
 
 For private audits or security consulting, please reach out to me on:
 
