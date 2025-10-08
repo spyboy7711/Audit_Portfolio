@@ -83,7 +83,7 @@ For private audits or security consulting, please reach out to me at:
 
 ## 🏆 Audit Contest
 
-Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/SPYBOY)  Timeline : Feb 2023 -April 2023
+Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/SPYBOY)  Timeline: Feb 2023 -April 2023 (3 months)
 
 | Report | Description | Critical/High | Medium | Lang-Ecosystem | Platform |
 | --- | --- | --- | --- | --- | --- |
