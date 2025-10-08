@@ -11,7 +11,7 @@ For private audits or security consulting, please reach out to me on:
 > [!TIP]
 > The most interesting reports are marked 💎,
 > mildly interesting as 👌 and
-> less interesting as 📰. <br>
+> Light Checks  as 📰. <br>
 
 ## 🔐 Private Audits at Credshields
 
