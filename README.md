@@ -98,3 +98,5 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/SPYB
 ## 🔐 Web2 Bug Bounty
 
 **Companies where bugs were reported:** AT&T, Cengage, Remote.it, Nestforms, Ipaper, Buckaroo.be, Todoist, Blinkit, Unito.io, Pyrus, Vroom.com, Deribriked, NRK.no, MYOB.com
+
+Web Bug Bounty Article : https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11
