@@ -1,7 +1,11 @@
 # Audit_Portfolio
-I'm security researcher specialized in **Solidity** and **Rust** (Solana, CosmWasm) audits. Conducted 100+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far.
+I’m a Blockchain Security Researcher focused on breaking and hardening systems across EVM, Solana, and CosmWasm ecosystems. My work spans from smart contract audits (Solidity, Rust, Func) to Web2 attack-surface assessments that bridge on-chain and off-chain security.
 
-For private audits or security consulting, please reach out to me on:
+Over the past few years, I’ve completed 100+ private audits, including 20+ Rust-based reviews 🦀, uncovering 150+ Critical/High vulnerabilities across diverse DeFi and GameFi protocols. I’ve contributed to both Web3 security research and traditional web application testing, helping teams build safer, production-ready systems.
+
+My audit experience covers AMMs, lending-borrowing, staking and reward vaults, cross-chain protocols, NFT ecosystems, tokenomics, launchpads, bonding curves, governance frameworks, validator systems, also GameFi dApps, where each line of code is treated as part of a larger security story.
+
+For private audits or security consulting, please reach out to me at:
 
 - Twitter: [@SPY8OY](https://x.com/SPY8OY)
 - Telegram: [@shreyas_koli](https://t.me/shreyas_koli)
