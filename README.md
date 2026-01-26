@@ -24,6 +24,8 @@ For private audits or security consulting, please reach out to me at:
 |  | Protocol | Description | Ecosystem | Findings | Report |
 | --- | --- | --- | --- | --- | --- |
 | 💎 | Amgi Studios-2 | NFT Staking, Tokenomics | ♦ EVM | 50 issues (16C,7H,7M,20L) | Soon |
+| 💎 | Vouch Staking | Staking | ♦ EVM | 10 issues (1C,2H,2M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Vouch_Staking_Final_Audit_Report.pdf) |
+| 💎 | Fun Token | Uniswap V4 | ♦ EVM | 27 issues (11C,7H,4M,5L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Fun_Token_Final_Audit_Report.pdf) |
 | 💎 | aUSD: Stable Jack | Lending/Borrowing | ♦ EVM | 33 issues (3C,2H,11M,17L) | [📄](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf) |
 | 💎 | Rex Protocol | DEX | ♦ EVM | 25 issues (1C,5H,4M,15L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf) |
 | 💎 | Vouch | Tokenomics | ♦ EVM | 24 issues (2C,0H,5M,17L) | [📄](https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf) |
