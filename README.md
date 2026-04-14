@@ -1,7 +1,7 @@
 # Audit_Portfolio
 I’m a Blockchain Security Researcher focused on breaking and hardening systems across EVM, Solana, and CosmWasm ecosystems. My work spans from smart contract audits in Solidity and Rust, along with a solid understanding of Solana and CosmWasm architectures, to Web2 attack-surface assessments that bridge on-chain and off-chain security.
 
-Over the past 3 years, I’ve completed 50+ private audits, including 10+ Rust-based reviews 🦀, uncovering 100+ Critical/High vulnerabilities across diverse DeFi and GameFi protocols. I’ve contributed to both Web3 security research and traditional web application testing, helping teams build safer, production-ready systems.
+Over the past 3 years, I’ve completed 50+ private audits, including 15+ Rust-based reviews 🦀, uncovering 100+ Critical/High vulnerabilities across diverse DeFi and GameFi protocols. I’ve contributed to both Web3 security research and traditional web application testing, helping teams build safer, production-ready systems.
 
 My audit experience covers AMMs, lending-borrowing, staking and reward vaults, cross-chain protocols, NFT ecosystems, tokenomics, launchpads, bonding curves, governance frameworks, validator systems, also GameFi dApps, where each line of code is treated as part of a larger security story.
 
